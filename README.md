@@ -23,7 +23,7 @@ Compile with `qmk compile -kb royal_kludge/rk61 -km ssyo`
 Flash to your keyboard with QMK toolbox
 
 ### Precompiled
-Go to the releases page here: https://github.com/yutaoz/rk-61-qmk/releases
+Go to the releases page here: [https://github.com/yutaoz/rk-61-qmk/releases](https://github.com/yutaoz/better-rk61-qmk/releases)
 
 Unzip the files
 
