@@ -1,4 +1,4 @@
-# rk-61-qmk
+# Better RK61 QMK Firmware
 qmk firmware for the royal kludge rk61 qmk with firmware level SOCD/snap tap and via support
 
 ## NOTE
